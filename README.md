@@ -4,7 +4,7 @@
 <div>
 <p>Estudante/Universitário</p> 
 
-<p>Atualmente sou estudante e universitário de Multimídia e Ciència da Computação</p>
+<p>Atualmente sou estudante de Multimídia pelo Senai e universitário de Ciência da Computação pela USCS</p>
 </div>
 
 <div>
