@@ -1,4 +1,3 @@
-<!-- https://readme-typing-svg.demolab.com/demo/ -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Guilherme+Fellipe;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
 
 <div>
